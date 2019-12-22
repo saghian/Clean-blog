@@ -1,2 +1,2 @@
 # Clean-blog
-simple blog theme like jax Lite 
+simple blog theme. 
